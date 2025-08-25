@@ -53,7 +53,7 @@ If you’re learning microhydrodynamics, working through Kim & Karrila, or just 
 
 If you're working on something similar or want to discuss, feel free to reach out:
 
-📧 [soumyodeep24@iitk.ac.in](mailto:soumyodeep24@iitk.ac.in)
+📧 [vimals24@iitk.ac.in](mailto:vimals24@iitk.ac.in)
 
 ---
 
